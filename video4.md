@@ -284,7 +284,7 @@ functional position
   - "The diagnosis of the syndromes should be conservative and based on objective findings." (p. 496)
   - at least eight of the findings must be present concurrently for a diagnosis (p. 496)
 
-5. peripheral vascular disease
+#### Peripheral Vascular Disease
 
 - usually involves diseases of arteries, veins and lymphatic disorders
 - vascular disorders cause...
