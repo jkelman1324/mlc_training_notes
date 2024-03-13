@@ -160,7 +160,7 @@ AMA Guides used to "determine impairment, the Legislature furthered its expressl
 
 ### 7 Methods in AMA Guide
 
-1. amputations (p. 441-445)
+#### Amputations (p. 441-445)
 
 - assess level of amputation
 - thumb amputation at MP joint = 100% thumb, 40% hand, 36% UE, 22% WPI
@@ -170,7 +170,7 @@ AMA Guides used to "determine impairment, the Legislature furthered its expressl
 - "The most practical and useful approach to evaluating impairment of a digit is to compare the current loss of function with the loss resulting from amputation." (p. 434 AMA Guides)
 - "The composite rating for an extremity (after adjustments) may not exceed the amputation value of the extremity adjusted for earning capacity, occupation and age." (p. 1-11 2005 PDRS)
 
-2. digital nerve lesions (section 16.3)
+#### Digital Nerve Lesions (section 16.3)
 
 - not to be used for peripheral nerve disorders or CRPS
 - sensibility defects on the dorsal surfaces of the digits are not considered impairing
@@ -180,7 +180,7 @@ AMA Guides used to "determine impairment, the Legislature furthered its expressl
   2. percentage of digit length affected
   3. digital nerve involvement (longitudinal - ulnar or radial or transverse - both). The information is then used with table 16-6 (p. 448 thumb and little finger) or table 16-7 (p. 448 index, middle, and ring fingers) to determine impairment.
 
-3. ROM/ankylosis
+#### ROM/Ankylosis
 
 neutral position
 : 0 degrees = "full extension" (not 180 degrees)
@@ -238,7 +238,7 @@ functional position
   - 9% UE (p. 439)
   - 5% WPI (p. 439)
 
-4. peripheral nerve disorders (p. 480-497)
+#### Peripheral Nerve Disorders (p. 480-497)
 
 - evaluates
   - impairments related to disorders of the spinal nerves (C5 to C8 and T1)
@@ -297,7 +297,7 @@ functional position
   - raynaud's phenomenon
 - physical signs of vascular damage must be present and are the primary determinants in placing the examinee into one of these categories
 
-6. strength (p. 507-510)
+#### Strength (p. 507-510)
 
 - grip & pinch strength
 - manual muscle testing
@@ -314,7 +314,7 @@ functional position
   - "several syndromes involving UE are variously attributed to tendinitis, fasciitis, or epicondylitis. the most common of these are the stubborn conditions of the origins of the flexor and extensor muscle of the forearm where they attach to the medial and lateral epicondyles of the humerus. although these conditions may be persistent for some time, they are not given a permanent impairment rating unless there is some other factor that must be considered." (p. 507)
   - grip loss can be considered "if an individual has had tendon rupture or has under-gone surgical release of the flexor or extensor origins or medial or lateral epicondylitis, or has had excision of the epicondyle, there may be some permanent weakness of grip as a result fo the tendon rupture of the surgery. in this case, impairment can be given on the basis of weakness of grip strength according to section 16.8b." (p. 507)
 
-7. "other" disorders (497-507)
+#### "Other" Disorders (497-507)
 
 - only used when other criteria have not adequately encompassed the impairment
 - the severity of impairment due to these disorders is rated separately according to tables 16-19 through 16-30 and then multiplied by the relative maximum value fo the unit involved as specified in table 16-18 (p. 498)
