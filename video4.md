@@ -323,3 +323,168 @@ functional position
   - must be thoroughly documented: "shoulder instability, recurrent subluxation, or dislocation must be adequately documented through a complete medical history, physical examination, and radiographic findings. MRI, arthroscopy, and examination under anesthesia may be useful components of the evaluation. An individual's complaint of feeling or fearing that a joint is 'popping' or 'going out of place' without adequate clinical findings is not a basis for permanent impairment rating." (p. 504)
   - shoulder representing 60% of UE (table 16-18), the patterns of occult(10%), subluxating (20%), and disclocating (40%) instabilities represent UE impairments of 6%, 12%, and 24% respectively (p. 504)
   - shoulder instability impairment can only be combined with decreased motion impairment: "this value may be combined only with impairments due to decreased motion (section 16.4). pain and decreased muscle strength are not rated separately." (p. 504)
+
+## Chapter 17: Lower Extremity (LE)
+
+- 100% LE = 40% WPI (table 17-3 p. 527)
+- 100% foot = 70% LE
+- numbers that are put together for evaluation for impairment/pd must be either added or combined
+  - **COMBINE** unless specific instructions state to **ADD** impairment values. the effect/purpose of combining is that it prevents the combined value from exceeding 100 (A + B(1-A) where A and B are decimal equivalents)
+  - **ADD** when involving the evaluation of range of motion impairment for the same part of the body
+- how to combine (p. 1-11 2005 PDRS):
+  - multiple impairments such as those involving a single part of an extremity, e.g. two impairment involving a shoulder such as shoulder instability and limited range of motion, are ocmbined at the UE level, then converted to WPI and adjusted before being combined with other parts of the same extremity
+  - impairments w/ disability numbers in the 16.01 and 17.01 series are converted to whole person impairment and adjusted before being combined with any other impairment of the same extremity
+  - impairment of an individual extremity are adjusted and combined at the whole person (PD) level with other impairments of the same extremity before being combined w/ impairments of other body parts. e.g. an impairment of the left knee and ankle would be combined before further combination w/ an impairment of the opposing leg or the back
+
+### Methods Used to Evaluate Impairments of LE
+
+#### Limb Length Discrepency
+
+- x-rays strongly recommended
+- repeat 3 times, "averaged to reduce measurement error" (p. 528)
+
+#### Gait Derangement
+
+- "expect as otherwise noted...table 17-5 \[is\] for full-time gait derangement of persons who are dependent on assistive devices."
+- not for "abnormalities based only on subjective factors, such as pain or sudden giving-way, as with...an individual with low-back discomfort who chooses to use a cane to assist in walking."
+- **should only be used when no other method is available to rate the person**
+
+#### Muscle Atrophy (Unilateral)
+
+- at thigh 10cm above patella
+- calf at "max level"
+- must compare measurement to opposite, uninjured LE
+- combine thigh and calf atrophy
+- atrophy measurements
+  - compare measurement to opposite member
+  - different in circumference might be:
+    - swelling
+    - varicose veins
+    - opposite member injured
+- example
+  - right tibia fracture
+  - MMI
+  - pain-free walking
+  - right thigh atrophy = 2cm -> 8% LE = 3% WPI
+  - right calf atrophy = 1cm -> 3% LE = 1% WPI
+  - combine: 8% C 3% = 11 LE
+  - convert 11% LE = 4% WPI
+
+#### Manual Muscle Testing
+
+- tables 17-7 and 17-8 (p. 531-532)
+- note type - hip abduction, grade 3 = 37% LE
+- cautions (p. 531)
+  - "depends on the examinee's cooperation"
+  - "should be concordant with other...signs and medical evidence"
+  - more than one grade between examiners
+  - more than one grade from exam to exam
+  - pain
+  - fear of pain
+  - attributed to deficit of a peripheral nerve
+
+#### Range of Motion
+
+- p. 533-538
+- use only "if it is clear...restricted \[ROM\] has an organic basis..."
+- obtain 3 measurements; use greatest
+- **add** ROM impairments in joint
+- example
+  - ankle flexion of 6° = 6% WPI (15% LE) (table 17-11, p. 537)
+  - ankle extension of 5° = 3% WPI (7% LE) (table 17-11)
+  - 1cm calf atrophy = 1% WPI (table 17-6, p. 530)
+  - add flexion and extension -> 15% LE + 7% LE = 22% LE = 9% WPI
+  - do not use atrophy (1% WPI)
+- invalid if:
+  - class inconsistency between 2 observers
+  - class inconsistency between exams
+  - pain
+  - fear of pain
+
+#### Ankylosis
+
+- hip = 50% LE = 20% WPI (p. 538)
+- knee = 67% LE = 27% WPI (p. 540)
+- ankle = 14% foot = 10% LE = 4% WPI (p. 541)
+- toes (see table 17-30 p. 543)
+
+1. determine value for "optimal position"
+2. use tables (p. 538-543) for deviation values (malposition increases impairment)
+3. **add** multiple malpositions for same join
+4. **combine** ankylosis of different joints
+5. "the baseline rating for ankylosis in a neutral position is used only once for each joint."
+
+#### Arthritis
+
+- use x-rays "standing if possible" with table 17-31 (p. 544)
+- () = normal cartilage intervals
+- compare **uninjured** opposite member
+- 17-31 footnote states if:
+  1. direct trauma,
+  2. patellofemoral pain (between knee cap and thigh bone/femur), and
+  3. "crepitation" on physical exam;
+  4. no joint space narrowing => 2% WPI (5% LE)
+- the knee has a medial and lateral compartment
+  - only the more significant loss is used (can be combined w/ patellofemoral arthritis)
+
+#### Amputations
+
+- see table 17-32 (p. 545)
+
+#### Diagnoses-Based Estimates
+
+- see table 17-33 (used in 70-80% of LE cases)
+- covers 9 regions/conditions
+  1. pelvis
+  2. hip
+  3. femoral shaft fracture
+  4. knee
+  5. malalignment of tibial shaft fracture
+  6. ankle
+  7. hindfoot
+  8. midfoot deformity
+  9. forefoot deformity
+
+#### Skin Loss (p. 550)
+
+- see table 17-36
+- full-thickness skin loss: impairment "even when the areas are successfully covered with \[a\]...skin graft."
+- chronic osteomyelitis (bone infection, usually bacterial infection of bone marrow; resulting inflammation can lead to reduction of blood supply to bone) **too**
+
+#### Peripheral Nerve Injuries (p. 550-552)
+
+- table 17-37 - maximum impairment values
+- assessed sensory/motor deficits are applied
+- combine with other LE methods **except**:
+  - muscle weakness
+  - atrophy
+  - gait (p. 552)
+- dysethesia (p. 600)
+  - impairment of sensitivity, especially to touch. altered feelings, such as burning, wetness, electric shock, pins and needles, itching
+
+#### Causalgia & CRPS (p. 553)
+
+- CRPS I = RSD
+- CRPS II = causalgia
+- "characterized by pain, swelling, stiffness, discoloraiton...skeletal demineralization"
+- may follow a sprain, fracture or nerve or vascular injury
+- "to rate \[causalgia and RSD\]..., diagnosis is key..."
+  - diagnosis: rely on clinical findings, three-phase bone scan, x-rays, laser Doppler flowmetry, sudomotor reflex
+  - table 16-16 (p. 496)
+
+#### Vascular Disorders (p. 553-554)
+
+**intermittent claudication**
+: cramping or aching in the calves (sometimes the thighs or buttocks) caused by walking; relieved by rest; a manifestation of atherosclerosis (blockage of an artery). it is called "intermittent" because of the pattern of pain only with walking.
+
+**edema**
+: abnormal buildup of fluid in the ankles, feet and legs.
+
+- common causes
+  - prolonged standing
+  - long airplane flights or automobile rides
+  - menstrual periods (for some women)
+  - pregnancy
+  - being overweight
+  - increased age
+  - injury or trauma
