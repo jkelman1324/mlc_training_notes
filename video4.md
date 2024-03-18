@@ -488,3 +488,225 @@ functional position
   - being overweight
   - increased age
   - injury or trauma
+
+## AMA Guides "Red Flags" & Tricks of the Trade
+
+### I. Combining
+
+- combine values chart (p. 604)
+- method used to combine multiple impairments, derived from the formula A + B(1-A) = _combined_ values of A and B
+- ensures that the summary value will not exceed 100% whole person
+- say goodbye to MDT (multiple disability table)
+- all impairments are:
+  - converted to WPI
+  - adjusted for FEC, age and occupation
+  - combined
+
+#### Combine or Add, and CVC
+
+- numbers that are put together for evaluation of impairment/pd must be either added or combined
+- **COMBINE**
+  - for most situations - unless specific instructions state to ADD impairment values
+  - atrophy (17-4, p. 531)
+  - strength (17-5, p. 532)
+  - arthritis (knee - patellofemoral w/ knee, lateral or medial compartment, if applicable)
+  - peripheral nerve (p. 550)
+  - combine largest to smallest (ignore instructions elsewhere)
+- **ADD**
+  - the most notable exception to combining = ROM for the same part of the body
+  - ROM for the same part of the body (p. 533)
+
+#### Combined Values Chart
+
+- use chart in PDRS (section 8)
+- the combined values chart in the AMA Guides has 5 errors (p. 604-606)
+  - 54 c 12 = 60 (not 59)
+  - 58 c 25 = 69 (not 68)
+  - 94 c 78 = 99 (not 98)
+  - 95 c 30 = 97 (not 96)
+  - 95 c 34 = 97 (not 96)
+
+#### UE and LE Impairments (per PDRS)
+
+- extremity impairments are:
+  - adjusted for FEC, age, occupation
+  - combined with other impairments of _same_ extremity before combining extremity impairments with other body parts
+
+#### Pain Add-On
+
+- max is 3% WPI
+- 3% can be subdivided between different impairments
+- add impairments to WPI value for affected body part(s) before adjustments
+
+### II. Measuring Decreased Ability to "Work" vs. "Impairment"
+
+**impairment**
+: loss, loss of use, or derangement of any body part, organ system or organ function. measured against impact on activities of daily living (ADL); measured by AMA Guides
+
+**disability**
+: effect of impairment on ability to meet occupational demands. measured against earning capacity loss; measured by California PD Schedule
+
+#### Whole Person Impairment
+
+- does not measure "disability" or "P.D."
+- 90% WPI may = 100% PD
+- "the Guides is not intended to be used for direct estimates of work disability."
+- impairment percentages derived according to the Guides criteria do not measure work disability
+- "\[I\]t is inappropriate to use the Guides' criteria or ratings to make direct estimates of work disability." (p. 9)
+
+#### Adjustments for Lack of Treatment
+
+- "If a patients declines \[surgical, pharmacologic or therapeutic treatment of an impairment\], that decision neither decreased nor increases the estimated percentage of...impairment." (p. 20)
+- ^ **WRONG! (see _Hanker_ below)**
+
+#### Pain
+
+- "If the individual appears to have pain-related impairment that has increased the burden of his or her condition slightly, the examiner may increase the percentage...by up to 3%." (p. 573)
+- NOT automatic
+- 3% per injury
+- chapter 18 analysis required
+- "impairment ratings in the Guides already have accounted for pain" (p. 570)
+- "\[I\]f an examining physician determines...an individual has pain-related impairment, \[must decide whether\]...that impairment has already been adequately incorporated into the rating..." (p. 570)
+- pain chapter **NOT** used for:
+  1. conditions adequately rated using other chapter(s)
+  2. low credibility/unwilling or unable to provide information
+  3. "ambiguous or controversial pain syndromes"
+  4. myofascial pain
+  5. fibromyalgia
+  6. "disputed neurogenic"
+  7. thoracic outlet syndrome
+- "the judgment that pain-related impairment is unratable does not mean that the evaluating physician considers the pain to be 'unreal' or fabricated." (p. 572)
+- rate pain if:
+  1. "body system impairment rating" is inadequate, and
+  2. pain increased "burden of condition" slightly
+  3. if the above are true, "may increase...by up to 3%"
+- if pain increases burden "substantially":
+  1. perform formal pain assessment
+  2. tables 18-4 and 18-6
+  3. detemrine class
+  4. ratable?
+  5. if ratable, "award" up to 3%
+- the schedule (p. 1-12) is **WRONG!**
+  - not "addition"
+  - the pain-related impairment is combined with the conventional impairment
+  - see errata (p. 584 \[5(b)-(c)\] and p. 589 \["impairment rating" (2)\])
+
+### IV. AMA "Treatment" Rules Conflict With Labor Code/Case Law
+
+- LC 4056:
+
+  > No compensation is payable in case of the death or disability of an employee when his death is caused, or when and so far as his disability is caused, continued, or aggrevated by an unreasonable refusal to submit to medical treatment, or to any surgical treatment, if the risk of the treatment is, in the opinion of the appeals board, based upon expert medical or surgical advice, inconsiderable in view of the seriousness of the injury.
+
+- adjustments for lack of treatment
+
+  > If a patient declines \[surgical, pharmacologic or therapeutic treatment of an impairment\], that decision neither decreased nor increases the estimated percentage of...impairment. (p. 20)
+
+- _Hanker v. City of Stockton PD_
+  - CT to heart; extreme fatigue: difficult to function
+  - 2 treatment options
+    1. medication (80% WPI)
+    2. ablation procedure (0%)
+
+### V. ROM (rather than DRE)
+
+- not valued
+  - spondylolysis
+  - spondylolisthesis
+  - herniated disc w.o radiculopathy (why?)
+  - aging changes (why?)
+- two methods of spinal evaluation
+  - DRE - "primary method"
+  - ROM - only if exception to DRE exists
+- not sufficient
+  - "ROM provides greater PD"
+  - "ROM is fairer"
+  - "ROM more accurately reflects PD" (violate Guzman?)
+  - silence (not golden)
+- ROM if:
+  - cause not clear
+  - statutorily mandated (not in california)
+  - "multilevel involvement in the same spinal region"
+    - not multilevel DDD
+    - not multilevel 'bulges'
+    - not multilevel herniations w/o radiculopathy
+    - multilevel fractures
+    - multilevel herniations _with_ radiculopathy
+    - multilevel stenosis _with_ radiculopathy
+    - DEU position - multi-level
+      - multi-level bulges, degernative changes or herniations != ROM
+      - need multi-level (or bilateral) radiculopathy
+  - "alteration of motion segment integrity at multiple levels"
+    - fusions
+  - "recurrent radiculopathy"
+    - requirements:
+      - imaging study confirmation (MRI)
+      - "significant" impact on nerve root function
+      - "dermatomal distribution"/clinical confirmation
+  - multiple episodes of "alteration of motion segment integrity"
+    - increased translational motion
+    - increased angular motion
+    - decreased motion from:
+      - developmental fusion
+      - healed fracture
+      - healed infection
+      - arthrodesis
+
+### VI. Grip/Pinch Mistakes
+
+- UE strength evaluation (p. 507-510)
+  - grip & pinch strength
+  - manual muscle testing
+- **RED FLAGS**
+
+  > Because strength measurements are...influenced by subective factors...the Guides does not assign a large role to such measurements.
+  > Many subjective...factors, including fatigure, handedness, time of day, age, nutritional state, pain...cooperation...influence strength measurements.
+  > \[T\]he correlation of strength with performance of activities of daily living is poor...increased strength does not necessarily equate with increased function
+
+- when grip/pinch can be used
+  - in a "rare case" (p. 508, AMA Guides 5th)
+  - not in presence of "painful conditions"
+  - not in presence of "decreased motions"
+  - not in presence of "deformities"
+  - not if there is an "absence of parts"
+  - not for elbow, shoulder injuries
+  - not within 1 year of injury/surgery
+  - not if >20% variation
+  - not if "evidence \[of\] less than maximal effort" (p. 509, AMA Guides 5th)
+  - not to rate carpal tunnel (p. 595)
+
+### VII. Complex Regional Pain Syndrome (CRPS p. 495-498)
+
+- reflex sympathetic dystrophy (CRPS I)
+- casualgia (CRPS II)
+- burning pain w/o stimulation or movement
+- plan on LIFE PENSION
+- consider psyche injury
+
+> \[T\]he diagnosis of the syndromes should be conservative and based on objective findings. p. 496
+> At least eight of \[the\] findings \[in table 16-16, p. 496\] must be present concurrently for a diagnosis of CRPS.
+
+### VIII. Carpal Tunnel
+
+**entrapment neuropathy**
+: a nerve compression-type lesion that implies disproportion between the volume of the peripheral nerve and the space through which it passes.
+
+- causes
+  - pressure on the median nerve
+  - caused by anything reducing space in carpal tunnel
+  - repetitive, forceful grasping with hands
+  - repitive bending of the wrist
+  - vibrating tools
+  - hormonal changes
+- conditions that may play a role
+  - arthritis
+  - diabetes
+  - thyroid imbalance
+  - broken or dislocated bones in the wrist that cause swelling
+  - tunnel size
+  - heredity
+    - genes account for about half of cases!
+    - much higher risk in women who have an identical twin w/ disorder compared to those w/o
+  - metabolic diseases
+  - autoimmune diseases
+  - pregnancy
+  - body weight
