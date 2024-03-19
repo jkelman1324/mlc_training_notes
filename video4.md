@@ -559,7 +559,7 @@ functional position
 - "If a patients declines \[surgical, pharmacologic or therapeutic treatment of an impairment\], that decision neither decreased nor increases the estimated percentage of...impairment." (p. 20)
 - ^ **WRONG! (see _Hanker_ below)**
 
-#### Pain
+### III. Pain
 
 - "If the individual appears to have pain-related impairment that has increased the burden of his or her condition slightly, the examiner may increase the percentage...by up to 3%." (p. 573)
 - NOT automatic
@@ -710,3 +710,129 @@ functional position
   - autoimmune diseases
   - pregnancy
   - body weight
+
+## PD Rating Issues
+
+### 4660.1
+
+- **This section shall apply to injuries occurring on or after January 1, 2013**
+- (b)...(AMA) Guides... whole person impairment, as provided in the Guides, multiplied by an **adjustment factor of 1.4**
+- (c) (1) Except as provided in paragraph (2), **there shall be no instances in impairment ratings for sleep dysfunction, sexual dysfunction, or psychiatric disorder, or any combination thereof, arising out of a compensable physical injury.** Nothing in this section shall limit the ability of an injured employee to obtain treatment for sleep dysfunction, sexual dysfunction, or psychiatric disorder, if any, that are consequence of an industrial injury
+  - (paragraph 2 addresses psychiatric injury associated with violent act, or catastrophic injury)
+
+### Pain
+
+- section 18.5, on pages 583-584, includes an Errata, and explains "How to Rate Pain-Related Impairment"
+
+> if pain related impairment increases the individual's burden of illness _slightly_ beyond that indicated by his or her conventional impairment rating, award the conventional impairment and combine this with discretionary quantitative pain-related impairment of 1%, 2%, or 3%
+
+- the DEU expressed in the 15th Annual DWC Educational Conference, that a pain add-on "assumes an underlying body system impairment rating greater than zero" (_CUrrent Rating Issues_, page 18). this has also been affirmed in the Blackledge en banc decision of 6/3/10 (page 22)
+- **There may be exceptions:**
+  - City of Sacramento v WCAB and Arthur Cannon, 3rd Appellate District Court of Appeal (12/26/13) -- allowed the use of rating by analogy for pain related functional deficit, without ratable objective findings "no objective abnormalities were identifiable, but he continued to experience pain in his left heel that affected weight-bearing activities"
+- **Page 1-12 of the 2005 PDRS:**
+  > The addition of up to 3% for pain is to be made at the whole person level. For example, if an elbow were to be increased by 3% for pain, the rating for the elbow would first be converted to the whole person scale, and then increased. The resultant rating would then be adjusted for diminished future earning capacity, occupation and age.
+  > In the case of multiple impairments, the evaluating physician shall, when medically justifiable, attribute the pain in whole number increments to the appropriate impairments. The additional percentage added for pain will be applied to the respective impairments as described in the preceding paragraph.
+- Example: 41 year old truck driver with loss of elbow range of motion calculated at 10% UE, plus 2% WPI for pain. 10% UE is converted, to 6% WPI. 2% WPI for pain is added, and the 8% WPI is the standard rating.
+- 16.03.01.00 -- 8 -- \[1.4\]11 -- 350H -- 14 -- 14% PD
+
+### Headaches
+
+- the DEU adopted the position that, following direct trauma to the head, up to 3% WPI can be assigned due to residual headaches
+- impairment # 13.01.00.99 as a 'consciousness disorder', has been assigned
+- table 13-2, p. 309 of the Guides, is used to evaluate Impairment of **Consciousness and Awareness**, and is rated using impairment # 13.01.00.00
+- only the "most severe cerebral impairment", from tables 13-2 to 13-8 can be used (p. 308)
+
+### Combine or Add, and CVC
+
+- chapter 15 -- spine
+  - **ADD**
+    - table 15-7 - page 404: ROM method -- spinal disorder -- "ADD"
+    - range of motion impairments -- "ADD" (p. 408)
+  - **COMBINE** -- ROM method:
+    - spinal disorder w/ range of motion (p. 403)
+    - UE or LE impairment from more than one nerve root (table 15-17, 15-18)
+- chapter 16 -- the upper extremities
+  - ROM for the same part of the body (for example, four motions for the wrist; range of motion impairment for the wrist and shoulder are added only for each joint)
+  - _Exception:_ the evaluation of hands/multiple digits, is quite complex. the instructions within chapter 16 are summarized on page 511. for the thumb, add all ROM impairment for the same joint; combine impairment for separate joints
+  - **Combine** impairments from separate methods of evaluation for the same body part, including digits (for example, ROM and digital sensory loss)
+  - the upper extremity impairment evaluation record, on p. 436-437, also includes instruction
+  - figure 16-1b, section II, instructs to combine Regional Impairment of the upper extremity. **For California WC, we do not use "regional impairment"**. Each body part is adjusted separately (eg, hand, wrist, elbow, shoulder)
+  - peripheral nerve -- COMBINE sensory/motor deficit impairments (each injured nerve is adjusted separately as allowed by impairment numbers on page 2-4 of the 2005 PDRS)
+- chapter 17
+  - **ADD**
+    - ROM for the same part of the body - (p. 533)
+  - **COMBINE**
+    - atrophy (ex. 17-4, p. 531)
+    - strength (example 17-5, p. 532)
+    - arthrities - (knee -- patellofemoral w/ knee, lateral or medial compartment, if applicable)
+    - peripheral nerve -- (p. 550)
+  - **How to combine:**
+    - multiple impairments such as those involving a single part of an extremity, e.g. two impairment involving a shoulder such as shoulder instability and limited range of motion, are combined at the upper extremity level, then converted to whole person impairment and adjusted before being combined with other parts of the same extremity
+    - impairments with disability numbers in the 16.01 and 17.01 series are converted to whole person impairment and adjusted before being combined with any other impairment of the same extremity
+    - impairments of an individual extremity are adjusted and combined at the whole person \[PD\] level with other impairments of the same extremity before being combined with impairments of other body parts. for example, an impairment of the left knee and ankle would be combined before further combination with an impairment of the opposing leg or the back
+  - **CVC -- Combined Values Chart:**
+    - section 8 of the 2005 PDRS. based on the formula: a + b(1-a) where "a" and "b" are the decimal equivalents of the impairment or disability percentages. "a" is the higher number of the 2 being combined
+    - combine largest to smallest
+    - with PD (following adjustment for FEC or 1.4, occupation, and age) combine PD for a single extremity first; then combine largest to smallest
+    - for impairment for the same part of an extremity, combine at extremity impairment value, and then convert to WPI
+
+### Hearing Loss Chapter 11
+
+- section 11.1 p. 246
+  - assistive devices must not be used during the determination of a hearing impairment rating
+- section 11.2a
+  - criteria for rating impairment due to hearing loss, p. 246-251
+- audiometric measures
+  - without assistive devices
+  - decibel (loudness)
+    - scale of 0 dB -100 dB is used - below 0 and above 100 are taken as minimum 0 and maximum 100
+  - frequency (pitch -- in Hz)
+    - ratable frequencies:
+      - 500, 100, 2000, 3000 (most speech falls within these frequencies)
+      - add dB level from each of these four frequencies = DSHL (decibel sum hearing loss)
+- table 11-2 (p. 248-249) -- BHI - Binaural Hearing Impairment -- match DSHL from both ears to obtain BHI (11-1 = monaural hearing loss)
+- tinnitus - p. 246 - "in the presence of...hearing impairment may impair speech discrimination". If so, "add up to 5%" if it impacts ADLs. (example 11-2 clarifies that the value for that "up to 5%" in in BHI)
+- table 11-3 - Conversion of BHI total to WPI
+
+### Rating Psyche Injury
+
+- AMA Guides - ch. 14 p. 361
+  > Percentages are not provided to estimate mental impairment in this edition of the Guides. Unlike cases with some organ systems, there are no precise measures of impairment in mental disorders. The use of percentages implies a certainty that does not exist. Percentages are likely to be used inflexibly by adjudicators, who then are less likely to take into account the many factors that influence mental and behavioral impairment. In addition, the authors are unaware of data that show the reliability of the impairment percentages. After considering this difficult matter, the Committee on Disability and Rehabilitation of the American Psychiatric Association advised Guides contributors against the use of percentages in the chapter on mental and behavioral disorders of the fourth edition, and that remains the opinion of the authors of the present chapter.
+- American Psychiatric Association
+- _Diagnostic and Statistical Manual of Mental Disorders, Third Edition-Revised (DSM-III -R) 1987_
+- DSM-IV-TR, released in 2000 included some changes to the table
+- the DSM-IV describes the use of the GAF Score in the following way:
+  > Axis V is for reporting the clinician's judgment of the individual's overall level of functioning. this information is useful in planning treatment and measuring its impact, and in predicting outcome
+- the reporting of overall functioning on Axis V is done using the Global Assessment of Functioning (GAF) Scale. the GAF scale may be particularly useful in tracking the clinical progress of individuals in global terms, using a single measure. the GAF Scale is to be rated with respect only to psychological, social, and occupational functioning. the instructions specify, "Do not include impairment in the functioning due to physical (or environmental) limitations."
+- _Axis V - Global Assessment of Functioning_
+- _DSM V - 2013 - GAF was eliminated_
+- 2005 PDRS, p. 1-12 -- 1-16
+  > Psychiatric impairment shall be evaluated by the physicican using the Global Assessment of Function (GAF) scale shown below. The resultant GAF score shall then be converted to a whole person impairment rating using the GAF conversion table...\[91-100 (superior functioning) -- 1-10 (persistent danger of severely hurting self or others OR persistent inability to maintain minimal personal hygiene OR serious suicidal act); 0 = inadequate information\]
+- p. 1-16 includes the GAF conversion table
+- GAF from the doctor's assessment (Axis V diagnosis) is converted to WPI
+- the two most frequently used GAF ranges in workers comp:
+  - 60 -- 51 moderate symptoms (e.g. flat affect and circumstantial speech, occasional panic attacks) OR moderate difficulty in social occupation, or school functioning (e.g. few friends, conflicts with peers or co-workers)
+  - 70 -- 61 some mild symptoms (e.g. depressed mood and mild insomnia) OR some difficulty in social, occupational, or school functioning (e.g. occasional truancy, or theft within the household), but generally functioning pretty well, has some meaningful relationships
+  - 80 - 71 if symptoms are present, they are transient and expectable reactions to psycho-social stressors (e.g. difficulty concentrating after family argument); no more than slight impairment in social, occupational, or school functioning (e.g. temporarily falling behind in schoolwork)
+- the American Psychiatric Association also publishes a Desk Reference to the Diagnostic Criteria from DSM-IV-TR. on p. 3 of that desk reference, severity "specifiers" are provided
+
+  - mild. few, if any, symptoms in excess of those required to make the diagnosis are present, and symptoms result in no more than minor impairment in social or occupational functioning
+  - moderate. symptoms or functional impairment between "mild" and "severe" are present
+  - severe. many symptoms in excess of those required to make the diagnosis, or several symptoms that are particularly severe, are present, or the symptoms results in marked impairment in social or occupational functioning
+
+- the AMA Guides, in table 14-1 p. 363, describes classes of impairment
+  - class 1 - no impairment
+  - class 2 - mild -- impairment levels are compatible with most useful functioning
+  - class 3 - moderate - impairment levels are compatible with some, but not all, useful functioning
+  - class 4 - marked -- impairment levels significantly impede useful functioning
+- 4 areas to be evaluated:
+  1. ability to perform activities of daily living
+  2. social functioning
+  3. concentration, persistence and pace
+  4. deterioration or decompensation in work or work-like setting/adaptation
+
+### Rating Issues (Guzman)
+
+> In order to constitute substantial medical evidence, a medical opinion must be predicated on reasonable medical probability. Also, a medical opinion is not substantial evidence if it is based on facts no longer germane, on adequate medical histories or examination, on incorrect legal theories, or on surmise, speculation, conjecture, or guess. Further, a medical report is not substantial evidence unless it sets forth the reasoning behind the physician's opinion, not merely his or her conclusions.""
+
+- the 6th District Court of Appeal's response to the Milpitas School District's Petition for Review of Guzman on 8/19/10
