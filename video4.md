@@ -836,3 +836,67 @@ functional position
 > In order to constitute substantial medical evidence, a medical opinion must be predicated on reasonable medical probability. Also, a medical opinion is not substantial evidence if it is based on facts no longer germane, on adequate medical histories or examination, on incorrect legal theories, or on surmise, speculation, conjecture, or guess. Further, a medical report is not substantial evidence unless it sets forth the reasoning behind the physician's opinion, not merely his or her conclusions.
 
 - the 6th District Court of Appeal's response to the Milpitas School District's Petition for Review of Guzman on 8/19/10
+
+## Continuous Traumas
+
+- 2005-2007 8% indemnity claims = CT
+- 2014 18% indemnity claims = CT
+- 7000 CTs between 7/12 - 4/16 (7.5% of all claims)
+- 336 CT claims exceeding $1 million
+- **3208.1** an injury may be either:
+  a. **"specific"** occurring as the result of one incident or exposure which causes disability or need for medical treatment; or
+  b. **"cumulative"** occurring as reptitive mentally or physically tramatic activities extending over a period of time, the combined effect of which casues any disability or need for medical treatment...
+- **LC 5412 -- Continuous Trauma** - the date of injury in cases of occupational diseases or cumulative injuries is that date upon which the employee **first suffered disability** therefrom **and** either **knew**, **or** in the exercise of reasonable diligence **should have known, that such disability was caused by** his present or prior **employment**.
+  > Modified work alone is not sufficient basis for compensable **temporary disability**, since actual wage loss is required for **temporary disability**, but it may indicate permanent impairment of earning capacity, especially if the work is never able to return to the original job duties.
+  > \[M\]edical treatment alone is not **disability**, but it may be evidence of compensable **permanent disability**, as may a need for modified work
+  > These questions, which may require expert medical opinion, are for the trier of fact to determine.
+- LC 5500.5
+  - applies to both "occupational disease" and "continuous trauma", no difference
+    > liability for the cumulative injury or occupational disease shall not be apportioned to prior or subsequent years
+    > In any case involving a claim of occupational disease or cumulative injury occurring as a result of more than one employment within the appropriate time period set forth in subdivision (a), the employee making the claim, or his or her dependents, may elect to proceed against any one or more of the employers.
+  - NOTE: 5500.5 is very long and will not be entirely typed out here
+- Contribution SOL
+  > after the appeals board has made an award for compensation benefits in connection with an occupational disease of cumulative injury, any employer or insurance carrier held liable under the award may institute proceedings before the board for the purpose of determining the apportionment of liability or right of contribution
+- "award for compensation benefits"
+  - can be **UNTIMELY**, even if:
+    - award not final award as to "all benefits"
+    - award finds NO TD/NO PD but need for medical care
+    - petition filed within 1 year of C&R, but not award
+- **5275**
+  - (a) disputes involving the following issues shall be submitted for arbitration
+  - (2) right of contribution in accordance with section 5500.5
+- 5270.5
+  - (a) The presiding workers' compensation judge at each office shall prepare a list of all eligible attorneys who district apply to be placed on the list of eligible arbitrators
+  - (a) attorneys are eligible to become arbitrators if they are active members of the California State Bar Association and are on of the following:
+    1. a certified specialist in workers' compensation, or eligible to become certified
+    2. a retired workers' compensation judge
+    3. a retired appeals board member
+    4. an attorney who has been certified to serve as judge pro tempore
+- picking your arbitrator
+  - 5271
+    - (a) the parties to a dispute submitted for arbitration may select any eligible attorney from the list prepared by the presiding workers' compensation judge to serve as arbitrator...
+    - (b) if the parties cannot select an arbitrator by agreement, either party may request the presiding workers' compensation judge to assign a panel of five arbitrators selected at random from the list of eligible attorneys
+    - (e) each party or lien claimant shall strike two members from the panel, and the remaining attorney shall serve as arbitrator
+- arbitrators can do anything except:
+  - order IW to undergo IME eval
+  - issue contempt order
+- who pays costs?
+  - LC 5273
+    - (b) ...the costs of the arbitration proceedings, including the aribtrator's compansation, shall be paid as follows:...
+    - (2) by the parties equally in proceedings subject to section 5500.5
+- where/when is arbitration
+  - 5276
+    - (a) arbitration proceedings may commence at any place and time agreed upon by all parties
+    - (b) if the parties cannot agree on a time or place to commence arbiration proceedings, the arbitrtor shall order the date, time and place for commencement of the proceeding. unless all parties agree otherwise, arbitration proceedings shall commence not less than 30 days nor more than 60 days from the date an arbitrator is selected
+    - (c) ten days before the arbitration, each party shall submit to the arbitrator and serve on the opposing party reports, records and other documentary evidence on which that party intends to rely...
+    - (e) unless all parties agree to a longer period of time, the failure of the arbitrator to submit the decision within 30 days shall result in forfeiture of the arbitrator's fee and shall vacate the submission order and all stipulations
+- don't like arbitrator's decision?
+  - 5277 (c) the findings of fact, award, order, or decision of the arbitrator shall have the same force and effect as an award, order, or decision of a workers' compensation judge
+- _Western Growers Ins. v. WCAB (Austin)_ (6/1/93, 16 Cal.App.4th 227)
+- WCAB will not generally impute knowledge without medical evidence unless IW's
+  > training, intelligence, and qualifications are such that the applicant should have recognized the relationships between the known adverse factors involved in his employment and his disability _City of Fresno v. WCAB_ (Johnson), 50 CCC 53
+- apportionment
+  - PD (CTS, etc) due to:
+    - 70% AOE/COE: grasp/manip/push/pull
+    - 30% Non-AOE/COE: "regular activities of life"
+      > \[The AME's\] apportionment of PD to \[ADLs\], referring to such things as driving and moving furniture once in a while, appears vague and speculative; indeed, should this become the accepted standard, _it would be difficult to obtain an award without apportionment in almost every case, unless the worked lived a totally immobile life whenever not at work._ CWCR (Vol. 35, No. 4) It appears that so long as the appropriate magic words are used, such as 'best medical judgment,', 'reasonable medical probability,' and 'medical expertise,' ...virtually anything can be a permissible basis for apportionment.
