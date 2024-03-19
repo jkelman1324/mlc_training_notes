@@ -833,6 +833,6 @@ functional position
 
 ### Rating Issues (Guzman)
 
-> In order to constitute substantial medical evidence, a medical opinion must be predicated on reasonable medical probability. Also, a medical opinion is not substantial evidence if it is based on facts no longer germane, on adequate medical histories or examination, on incorrect legal theories, or on surmise, speculation, conjecture, or guess. Further, a medical report is not substantial evidence unless it sets forth the reasoning behind the physician's opinion, not merely his or her conclusions.""
+> In order to constitute substantial medical evidence, a medical opinion must be predicated on reasonable medical probability. Also, a medical opinion is not substantial evidence if it is based on facts no longer germane, on adequate medical histories or examination, on incorrect legal theories, or on surmise, speculation, conjecture, or guess. Further, a medical report is not substantial evidence unless it sets forth the reasoning behind the physician's opinion, not merely his or her conclusions.
 
 - the 6th District Court of Appeal's response to the Milpitas School District's Petition for Review of Guzman on 8/19/10
