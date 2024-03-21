@@ -929,3 +929,76 @@ functional position
   - after 1/1/2013, no FEC, multiply WPI by 1.4
 - occupation
 - age
+- ex. 15.01.02.02 - 8 - \[5\]10 - 470H - 13 - 11% PD
+
+### Almaraz/Guzman Impairment
+
+- allows doctor to use any chapter, table, or method within the 'four corners' of the AMA Guides to determine impairment
+- impairment number is selected based on the diagnosis, not the chapter, table, or method used
+- impairment number corresponds with AMA Guides Chapter number
+- when using Almaraz/Guzman, you must change the last group of two digits to 99
+
+### Future Earning Capacity
+
+> attempts to adjust impairment rating using RAND study information, to reflect average percentage of long-term loss of income resulting from each type of injury for similarly situated employees (LC § 4660(b)(2))
+
+- FEC never **decreases** impairment values!
+- do not use table B (p. 1-7), ALWAYS use FEC to the right of the impairment number on pages 2-2 through 2-5
+- not used for dates of injury on or after 1/1/2013 (multiply by 1.4 - same as FEC 8)
+
+### Combined Values Chart
+
+- use the chart in the PDRS (section 8)
+- the Combined Values Chart in the AMA Guides has 5 errors
+- the chart uses greatest value on the left and smaller value at the bottom. intersection of that row and column provides combined value
+- ensures summary value won't exceed 100%
+
+### General Rule for Combining
+
+- all impairments are:
+  - converted to WPI
+  - adjusted for FEC, occupation and age
+  - combined
+
+### Multiple Impairments in Single Part of Extremity
+
+- combine at the extremity level
+- convert to WPI
+- adjust for FEC, occuption, age
+- combine result with other parts of same extremity
+
+### Multiple Impairments in Multiple Extremities/Systems
+
+- use general combining rules for each extremity
+  - convert each part (elbow, shoulder, etc) to WPI
+  - adjust for FEC, occupation, age
+  - combine at PD level to determine PD for each involved extremity, then combine extremities and systems, largest to smallest PD%
+
+### Interesting Facts
+
+> Impairments with disability numbers in the 16.01 and 17.01 series are converted to whole person impairment and adjusted before being combined with any other impairment of the same extremity. (2005 PDRS, p. 1-11)
+
+> Multiple impairments involving the hand or foot are combined using standard AMA Guides protocols. The resulting impairment is converted to whole person impairment and adjusted before being combined with other impairments of the same extremity. (2005 PDRS, p. 1-11)
+
+> The composite rating for an extremity (after adjustments) may not exceed the amputation value of the extremity adjusted for earning capacity, occupation and age. (2005 PDRS, p. 1-11)
+
+### Pain
+
+> Pursuant to Chapter 18 of the AMA Guides, a whole person impairment rating based on the body or organ rating system of the AMA Guides (Chapters 3-17) may be increased by 0-3% WPI if the burden of the worker's condition has been increased by pain-related impairment in excess of the pain component already incorporated in the WPI rating in Chapters 3-17. (2005 PDRS, p. 1-12)
+
+- the Errata Sheet changes significant portions of chapter 18
+- according to the Guides:
+  - not automatic
+  - maximum of 3% per injury
+  - ch. 18 analysis required
+
+> Criterion assumes an underlying body system impairment rating greater than zero. (DWC 15th Annual Educational Conference 2008)
+
+> Because this pain add-on can be assessed only to 'increase' other ratable impairment, there can be no pain add-on if there is no underlying WPI for a particular body part or system. (WCAB in Blackledge en banc)
+
+- pain without objective findings:
+  - in cases of direct head trauma without objective findings and complaints of headache pain
+  - 'counts' toward 3% WPI limit
+  - use impairment - 13.01.00.99
+- 3% can be subdivided between different impairments
+- add impairments to WPI value for affected body part(s) before adjustments
